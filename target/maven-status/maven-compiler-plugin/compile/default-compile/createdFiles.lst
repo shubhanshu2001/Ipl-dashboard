@@ -1,0 +1,12 @@
+com\codezone\Ipldashboard\repository\MatchRepository.class
+com\codezone\Ipldashboard\controller\MatchController.class
+com\codezone\Ipldashboard\processor\MatchItemProcessor.class
+com\codezone\Ipldashboard\IplDashboardApplication.class
+com\codezone\Ipldashboard\batchProcessing\BatchConfiguration.class
+com\codezone\Ipldashboard\models\MatchInput.class
+com\codezone\Ipldashboard\controller\TeamController.class
+com\codezone\Ipldashboard\models\Match.class
+com\codezone\Ipldashboard\models\Team.class
+com\codezone\Ipldashboard\batchProcessing\BatchConfiguration$1.class
+com\codezone\Ipldashboard\batchProcessing\JobCompletionNotificationListener.class
+com\codezone\Ipldashboard\repository\TeamRepository.class
